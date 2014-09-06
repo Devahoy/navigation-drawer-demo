@@ -7,3 +7,7 @@
 
 
 .idea/
+
+# Not include images.
+/app/src/main/res/drawable-hdpi/*.png
+!/app/src/main/res/drawable-hdpi/ic_launcher.png
